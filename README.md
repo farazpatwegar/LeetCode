@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/farazpatwegar/LeetCode/tree/master/0027-remove-element) |
+| [0074-search-a-2d-matrix](https://github.com/farazpatwegar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 # Math
 |  |
 | ------- |
@@ -33,3 +34,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/farazpatwegar/LeetCode/tree/master/1013-fibonacci-number) |
+# Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/farazpatwegar/LeetCode/tree/master/0074-search-a-2d-matrix) |
+# Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/farazpatwegar/LeetCode/tree/master/0074-search-a-2d-matrix) |
