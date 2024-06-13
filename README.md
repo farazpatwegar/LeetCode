@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/farazpatwegar/LeetCode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/farazpatwegar/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/farazpatwegar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/farazpatwegar/LeetCode/tree/master/0283-move-zeroes) |
 # Math
 |  |
@@ -55,3 +56,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/farazpatwegar/LeetCode/tree/master/0445-add-two-numbers-ii) |
+# Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/farazpatwegar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/farazpatwegar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
