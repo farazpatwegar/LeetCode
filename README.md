@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0125-valid-palindrome](https://github.com/farazpatwegar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0953-reverse-only-letters](https://github.com/farazpatwegar/LeetCode/tree/master/0953-reverse-only-letters) |
+| [2235-capitalize-the-title](https://github.com/farazpatwegar/LeetCode/tree/master/2235-capitalize-the-title) |
 # Array
 |  |
 | ------- |
