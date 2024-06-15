@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/farazpatwegar/LeetCode/tree/master/0326-power-of-three) |
+| [0371-sum-of-two-integers](https://github.com/farazpatwegar/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/farazpatwegar/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/farazpatwegar/LeetCode/tree/master/1013-fibonacci-number) |
 # Dynamic Programming
@@ -73,3 +74,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/farazpatwegar/LeetCode/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/farazpatwegar/LeetCode/tree/master/0371-sum-of-two-integers) |
