@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/farazpatwegar/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/farazpatwegar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/farazpatwegar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/farazpatwegar/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/farazpatwegar/LeetCode/tree/master/0283-move-zeroes) |
 # Math
 |  |
@@ -68,3 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/farazpatwegar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/farazpatwegar/LeetCode/tree/master/0136-single-number) |
