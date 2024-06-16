@@ -75,3 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/farazpatwegar/LeetCode/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/farazpatwegar/LeetCode/tree/master/0371-sum-of-two-integers) |
+# Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/farazpatwegar/LeetCode/tree/master/0595-big-countries) |
