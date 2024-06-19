@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/farazpatwegar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/farazpatwegar/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/farazpatwegar/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/farazpatwegar/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/farazpatwegar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/farazpatwegar/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/farazpatwegar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 # Matrix
@@ -90,3 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0414-third-maximum-number](https://github.com/farazpatwegar/LeetCode/tree/master/0414-third-maximum-number) |
 | [1970-sorting-the-sentence](https://github.com/farazpatwegar/LeetCode/tree/master/1970-sorting-the-sentence) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/farazpatwegar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
