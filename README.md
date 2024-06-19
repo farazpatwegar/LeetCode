@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/farazpatwegar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/farazpatwegar/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/farazpatwegar/LeetCode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/farazpatwegar/LeetCode/tree/master/0414-third-maximum-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/farazpatwegar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 # Math
 |  |
@@ -85,4 +86,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/farazpatwegar/LeetCode/tree/master/0414-third-maximum-number) |
 | [1970-sorting-the-sentence](https://github.com/farazpatwegar/LeetCode/tree/master/1970-sorting-the-sentence) |
