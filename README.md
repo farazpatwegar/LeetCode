@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1542-consecutive-characters](https://github.com/farazpatwegar/LeetCode/tree/master/1542-consecutive-characters) |
 | [1970-sorting-the-sentence](https://github.com/farazpatwegar/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2235-capitalize-the-title](https://github.com/farazpatwegar/LeetCode/tree/master/2235-capitalize-the-title) |
+| [3312-number-of-changing-keys](https://github.com/farazpatwegar/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/farazpatwegar/LeetCode/tree/master/3379-score-of-a-string) |
 # Array
 |  |
