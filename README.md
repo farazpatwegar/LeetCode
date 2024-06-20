@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/farazpatwegar/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/farazpatwegar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/farazpatwegar/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/farazpatwegar/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/farazpatwegar/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/farazpatwegar/LeetCode/tree/master/0414-third-maximum-number) |
 | [1319-unique-number-of-occurrences](https://github.com/farazpatwegar/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/farazpatwegar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/farazpatwegar/LeetCode/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/farazpatwegar/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 # Union Find
 |  |
@@ -90,9 +92,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/farazpatwegar/LeetCode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/farazpatwegar/LeetCode/tree/master/0414-third-maximum-number) |
 | [1970-sorting-the-sentence](https://github.com/farazpatwegar/LeetCode/tree/master/1970-sorting-the-sentence) |
 # Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/farazpatwegar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/farazpatwegar/LeetCode/tree/master/0169-majority-element) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/farazpatwegar/LeetCode/tree/master/0169-majority-element) |
