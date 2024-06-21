@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/farazpatwegar/LeetCode/tree/master/0414-third-maximum-number) |
 | [1319-unique-number-of-occurrences](https://github.com/farazpatwegar/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/farazpatwegar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/farazpatwegar/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 # Math
 |  |
 | ------- |
