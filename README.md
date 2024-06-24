@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/farazpatwegar/LeetCode/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/farazpatwegar/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/farazpatwegar/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/farazpatwegar/LeetCode/tree/master/0445-add-two-numbers-ii) |
