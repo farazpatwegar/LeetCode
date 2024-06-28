@@ -112,3 +112,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/farazpatwegar/LeetCode/tree/master/0169-majority-element) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/farazpatwegar/LeetCode/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/farazpatwegar/LeetCode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/farazpatwegar/LeetCode/tree/master/0342-power-of-four) |
+<!---LeetCode Topics End-->
