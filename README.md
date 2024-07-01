@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/farazpatwegar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0520-detect-capital](https://github.com/farazpatwegar/LeetCode/tree/master/0520-detect-capital) |
 | [0782-jewels-and-stones](https://github.com/farazpatwegar/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/farazpatwegar/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -159,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/farazpatwegar/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/farazpatwegar/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
