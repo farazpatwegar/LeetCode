@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/farazpatwegar/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/farazpatwegar/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1791-richest-customer-wealth](https://github.com/farazpatwegar/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
@@ -154,4 +155,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/farazpatwegar/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/farazpatwegar/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
