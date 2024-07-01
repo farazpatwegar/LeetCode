@@ -3,10 +3,9 @@ class Solution {
         if (nums.length == 0) {
             return 0;
         }
+        int j = 0;
         
-        int j = 0; // Pointer for unique elements
-        
-        // Iterate through the array
+       
         for (int i = 1; i < nums.length; i++) {
             // If the current element is different from the previous one
             if (nums[i] != nums[j]) {
