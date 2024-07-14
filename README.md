@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farazpatwegar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/farazpatwegar/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/farazpatwegar/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/farazpatwegar/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/farazpatwegar/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
@@ -186,4 +188,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/farazpatwegar/LeetCode/tree/master/1656-count-good-triplets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
