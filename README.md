@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1580-shuffle-the-array](https://github.com/farazpatwegar/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/farazpatwegar/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/farazpatwegar/LeetCode/tree/master/1656-count-good-triplets) |
+| [1677-matrix-diagonal-sum](https://github.com/farazpatwegar/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/farazpatwegar/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Sorting
 |  |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1677-matrix-diagonal-sum](https://github.com/farazpatwegar/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/farazpatwegar/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Trie
 |  |
