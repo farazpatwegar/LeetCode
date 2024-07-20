@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/farazpatwegar/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/farazpatwegar/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/farazpatwegar/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/farazpatwegar/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/farazpatwegar/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/farazpatwegar/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/farazpatwegar/LeetCode/tree/master/2406-decode-the-message) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/farazpatwegar/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/farazpatwegar/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Matrix
 |  |
 | ------- |
