@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/farazpatwegar/LeetCode/tree/master/0342-power-of-four) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/farazpatwegar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
