@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/farazpatwegar/LeetCode/tree/master/0342-power-of-four) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/farazpatwegar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/farazpatwegar/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2507-number-of-common-factors](https://github.com/farazpatwegar/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/farazpatwegar/LeetCode/tree/master/1656-count-good-triplets) |
+| [2507-number-of-common-factors](https://github.com/farazpatwegar/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/farazpatwegar/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/farazpatwegar/LeetCode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
