@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-determine-if-string-halves-are-alike](https://github.com/farazpatwegar/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/farazpatwegar/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/farazpatwegar/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/farazpatwegar/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2406-decode-the-message](https://github.com/farazpatwegar/LeetCode/tree/master/2406-decode-the-message) |
 ## Database
 |  |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/farazpatwegar/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/farazpatwegar/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Number Theory
 |  |
 | ------- |
