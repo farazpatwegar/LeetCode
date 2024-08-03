@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/farazpatwegar/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0344-reverse-string](https://github.com/farazpatwegar/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/farazpatwegar/LeetCode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/farazpatwegar/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/farazpatwegar/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farazpatwegar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0344-reverse-string](https://github.com/farazpatwegar/LeetCode/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/farazpatwegar/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
