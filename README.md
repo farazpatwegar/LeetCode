@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/farazpatwegar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0342-power-of-four](https://github.com/farazpatwegar/LeetCode/tree/master/0342-power-of-four) |
 ## String
 |  |
@@ -242,4 +243,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/farazpatwegar/LeetCode/tree/master/2507-number-of-common-factors) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/farazpatwegar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
