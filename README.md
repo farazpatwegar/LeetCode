@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/farazpatwegar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/farazpatwegar/LeetCode/tree/master/0342-power-of-four) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/farazpatwegar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/farazpatwegar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
