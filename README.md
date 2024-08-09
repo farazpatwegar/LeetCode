@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/farazpatwegar/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/farazpatwegar/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2406-decode-the-message](https://github.com/farazpatwegar/LeetCode/tree/master/2406-decode-the-message) |
+| [3468-find-the-encrypted-string](https://github.com/farazpatwegar/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Database
 |  |
 | ------- |
