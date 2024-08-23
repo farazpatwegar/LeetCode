@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/farazpatwegar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farazpatwegar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0057-insert-interval](https://github.com/farazpatwegar/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/farazpatwegar/LeetCode/tree/master/0066-plus-one) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/farazpatwegar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/farazpatwegar/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Enumeration
 |  |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/farazpatwegar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/farazpatwegar/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
