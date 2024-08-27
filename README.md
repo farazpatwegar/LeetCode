@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/farazpatwegar/LeetCode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/farazpatwegar/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/farazpatwegar/LeetCode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/farazpatwegar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/farazpatwegar/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/farazpatwegar/LeetCode/tree/master/0342-power-of-four) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/farazpatwegar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/farazpatwegar/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/farazpatwegar/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/farazpatwegar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farazpatwegar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0057-insert-interval](https://github.com/farazpatwegar/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/farazpatwegar/LeetCode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/farazpatwegar/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/farazpatwegar/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -187,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/farazpatwegar/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
@@ -213,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/farazpatwegar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
 | [1646-kth-missing-positive-number](https://github.com/farazpatwegar/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Enumeration
 |  |
