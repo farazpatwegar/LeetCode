@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/farazpatwegar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/farazpatwegar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -277,4 +278,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/farazpatwegar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/farazpatwegar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/farazpatwegar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
