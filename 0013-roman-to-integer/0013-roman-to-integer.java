@@ -2,7 +2,6 @@ import java.util.HashMap;
 
 class Solution {
     public int romanToInt(String s) {
-        // Mapping Roman numerals to their integer values
         HashMap<Character, Integer> romanValues = new HashMap<>();
         romanValues.put('I', 1);
         romanValues.put('V', 5);
@@ -18,7 +17,7 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             int value = romanValues.get(s.charAt(i));
             if (value > prevValue) {
-                result += value - 2 * prevValue; // subtracting the previous value twice to undo the addition
+                result += value - 2 * prevValue; 
             } else {
                 result += value;
             }
