@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farazpatwegar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0057-insert-interval](https://github.com/farazpatwegar/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/farazpatwegar/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/farazpatwegar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/farazpatwegar/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/farazpatwegar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/farazpatwegar/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/farazpatwegar/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/farazpatwegar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/farazpatwegar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/farazpatwegar/LeetCode/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/farazpatwegar/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
