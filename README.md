@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-determine-if-string-halves-are-alike](https://github.com/farazpatwegar/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/farazpatwegar/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/farazpatwegar/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/farazpatwegar/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/farazpatwegar/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2406-decode-the-message](https://github.com/farazpatwegar/LeetCode/tree/master/2406-decode-the-message) |
 | [3468-find-the-encrypted-string](https://github.com/farazpatwegar/LeetCode/tree/master/3468-find-the-encrypted-string) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1677-matrix-diagonal-sum](https://github.com/farazpatwegar/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/farazpatwegar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/farazpatwegar/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/farazpatwegar/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/farazpatwegar/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/farazpatwegar/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/farazpatwegar/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Number Theory
 |  |
