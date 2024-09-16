@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/farazpatwegar/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/farazpatwegar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/farazpatwegar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/farazpatwegar/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/farazpatwegar/LeetCode/tree/master/0520-detect-capital) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/farazpatwegar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/farazpatwegar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/farazpatwegar/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
