@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/farazpatwegar/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/farazpatwegar/LeetCode/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/farazpatwegar/LeetCode/tree/master/0619-biggest-single-number) |
+| [1301-reformat-department-table](https://github.com/farazpatwegar/LeetCode/tree/master/1301-reformat-department-table) |
 | [1541-top-travellers](https://github.com/farazpatwegar/LeetCode/tree/master/1541-top-travellers) |
 | [1908-recyclable-and-low-fat-products](https://github.com/farazpatwegar/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Hash Table
