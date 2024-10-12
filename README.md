@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/farazpatwegar/LeetCode/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/farazpatwegar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/farazpatwegar/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/farazpatwegar/LeetCode/tree/master/0507-perfect-number) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/farazpatwegar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/farazpatwegar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/farazpatwegar/LeetCode/tree/master/0058-length-of-last-word) |
+| [0168-excel-sheet-column-title](https://github.com/farazpatwegar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/farazpatwegar/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/farazpatwegar/LeetCode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/farazpatwegar/LeetCode/tree/master/0742-to-lower-case) |
