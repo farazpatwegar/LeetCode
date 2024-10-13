@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/farazpatwegar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/farazpatwegar/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/farazpatwegar/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/farazpatwegar/LeetCode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/farazpatwegar/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/farazpatwegar/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/farazpatwegar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/farazpatwegar/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1646-kth-missing-positive-number](https://github.com/farazpatwegar/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Enumeration
 |  |
