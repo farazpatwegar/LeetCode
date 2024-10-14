@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/farazpatwegar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/farazpatwegar/LeetCode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/farazpatwegar/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/farazpatwegar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/farazpatwegar/LeetCode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/farazpatwegar/LeetCode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/farazpatwegar/LeetCode/tree/master/0742-to-lower-case) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/farazpatwegar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/farazpatwegar/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/farazpatwegar/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/farazpatwegar/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
